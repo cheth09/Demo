@@ -1,0 +1,1 @@
+java -cp E:\newspace\newworkspace\Demo\lib\*;E:\newspace\newworkspace\Demo\bin org.testng.TestNG testng.xml
