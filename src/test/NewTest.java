@@ -9,6 +9,7 @@ public class NewTest {
   public void f() {
 		
 		System.out.println("Hi Hello");
+		System.out.println("Checking if jenkins build projects on commit!!");
   }
  
 }
